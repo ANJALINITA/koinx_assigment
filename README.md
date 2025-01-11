@@ -8,7 +8,7 @@ This project is a solution for the KoinX Frontend Intern Assignment. It demonstr
 
 ## 🚀 Live Demo
 
-Check out the live version of the project hosted on [Netlify/Vercel](#replace-with-live-url).
+Check out the live version of the project hosted on [Vercel](https://koinx-assigment-opal.vercel.app/).
 
 ---
 
